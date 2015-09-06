@@ -4,4 +4,4 @@ Just copy and paste the index.html file into a root directory.
 
 **Screenshot:**
 
-![A screenshot of the landing page](http://vgy.me/GsqO1v.png)
+![A screenshot of the landing page](http://i.imgur.com/ZARKp7y.png)
